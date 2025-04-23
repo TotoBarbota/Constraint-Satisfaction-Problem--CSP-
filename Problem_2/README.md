@@ -1,4 +1,4 @@
-# Problem 2: Constraint Satisfaction Problem
+# Problem 2: Room-Furniture Constraint
 
 ## Execution
 
